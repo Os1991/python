@@ -5,3 +5,4 @@ for i in range(len(a)):
         print (a[i][0:10])
     else:
         print(a[i])
+        
