@@ -1,0 +1,12 @@
+Ivanov 23543.12
+Petrov 13749.32
+Sidorov 21921.30
+Vasiliev 14012.11
+Kuznetcov 30510.54
+Afanasiev 31310.40
+Filippov 50100.51
+Aleksandrov 20010.51
+Illarionov 10310.51
+Nikitin 44100.12
+Zakharov 22510.50
+Kukhtinov 25120.20
